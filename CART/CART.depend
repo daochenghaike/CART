@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1355060765 source:f:\codeblocks programming\cart\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<map>
+	<list>
+	<set>
+	<queue>
+	<utility>
+	<vector>
+	<cmath>
+
